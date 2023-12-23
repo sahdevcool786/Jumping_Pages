@@ -5,3 +5,7 @@ Step 1:
 
 Step 2:
     If everything is working then Jump to Step-3
+
+Step 3:
+    a) Setup the Docker
+    b) Setup AWS account
